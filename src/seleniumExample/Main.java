@@ -17,7 +17,7 @@ public class Main {
 		
 		String baseUrl = "http://demo.guru99.com/test/newtours/";
 		String expectedTitle = "Welcome: Mercury Tours";
-		String actualTitle = "";
+		
 		
 		// launch Fire fox and direct it to the Base URL
 		driver.get(baseUrl);
